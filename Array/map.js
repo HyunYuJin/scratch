@@ -1,2 +1,1 @@
-// Write a message to the console.
-console.log('hello world!');
+// 새로운 배열 요소를 생성해서 return 해주는 callback 함수가 필요
